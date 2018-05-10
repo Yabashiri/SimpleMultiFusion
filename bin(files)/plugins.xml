@@ -194,7 +194,7 @@
             <Widget>Main</Widget>
         </Widgets>
     </plugin>
-    <plugin included="true">
+    <plugin included="false">
         <Id>Timeline</Id>
         <path>./plugins/Timeline/</path>
         <Widgets>
